@@ -22,4 +22,4 @@ $ganool = new ganool();</pre>
 header('Content-Type: application/json');<br>
 echo json_encode($data, JSON_PRETTY_PRINT);</pre>
 
-<a href="http://dev.mastomi.web.id/ganool-api/api/?url=http://ganool.ph/the-legend-of-tarzan-2016-cam-450mb-ganool-ph/"><h2>DEMO</h2></a>
+<a href="http://dev.mastomi.web.id/ganool-api/api/?url=http://ganool.ph/the-legend-of-tarzan-2016-cam-450mb-ganool-ph/" target="_blank"><h2>DEMO</h2></a>
